@@ -5,3 +5,6 @@ dist
 qa-*.png
 qa-*.svg
 
+
+.vercel
+.env*
